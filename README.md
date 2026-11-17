@@ -8,7 +8,7 @@ The player controls a running character and jumps over stones. The game ends aft
 
 GitHub Pages:
 
-[https://zyzapixel.github.io/playable_runner/]
+https://zyzapixel.github.io/playable_runner/
 
 ## Gameplay
 
@@ -86,7 +86,7 @@ docs/
 7. Save.
 The project will be available at:
 ```text
-https://necollaz.github.io/playable_runner/
+https://zyzapixel.github.io/playable_runner/
 ```
 
 ## Requirements Checklist
